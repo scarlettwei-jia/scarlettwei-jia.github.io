@@ -3,7 +3,7 @@ title: "Optimizing Pre-Processing Workflow Towards Robust Longitudinal Radiomics
 type: "Talk"
 permalink: /talks/2023_JW_TZ_AAPM
 venue: "AAPM Annual Meeting"
-date: 2023-01-01
+date: 2023-07-27
 location: "Houston, TX"
 ---
 
