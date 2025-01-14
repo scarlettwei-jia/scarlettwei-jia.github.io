@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2022_JW_CG_NY6
 venue: "New York Six Liberal Arts Consortium Undergraduate Research Conference, Colgate University"
-date: 2022-01-01
+date: 2022-11-05
 location: "Hamilton, NY"
 ---
 
