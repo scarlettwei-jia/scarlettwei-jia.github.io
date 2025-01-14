@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2021_JW_CM_CUWiP
 venue: "American Physical Society Conferences for Undergraduate Women in Physics"
-date: 2021-01-01
+date: 2021-01-22
 location: "Virtual"
 ---
 
