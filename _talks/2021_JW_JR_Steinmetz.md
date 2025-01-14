@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2021_JW_JR_Steinmetz
 venue: "Steinmetz Symposium, Union College"
-date: 2021-01-01
+date: 2021-05-21
 location: "Schenectady, NY"
 ---
 
