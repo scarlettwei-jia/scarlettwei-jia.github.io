@@ -3,7 +3,7 @@ title: "An Automated Image Processing Workflow for Quantitative Analysis of Dail
 type: "Talk"
 permalink: /talks/2023_JW_TZ_MRinRT
 venue: "9th MR in RT Symposium, UCLA"
-date: 2023-01-01
+date: 2023-02-08
 location: "Los Angeles, CA"
 ---
 
