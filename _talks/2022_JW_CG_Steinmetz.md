@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2022_JW_CG_Steinmetz
 venue: "Steinmetz Symposium,  Union College"
-date: 2022-01-01
+date: 2022-05-13
 location: "Schenectady, NY"
 ---
 
