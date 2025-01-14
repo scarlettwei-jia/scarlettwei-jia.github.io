@@ -3,7 +3,7 @@ title: "Log Conversion with Fewer Counts for Photon Counting CT: Decreasing Both
 type: "Talk"
 permalink: /talks/2025_JW_KT_SPIEMI
 venue: "SPIE Medical Imaging"
-date: 2025-01-01
+date: 2025-02-18
 location: "San Diego, CA"
 ---
 
